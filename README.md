@@ -118,3 +118,7 @@ At the time of retrieve(), The find() in Class BplusTree is called to get all th
 
 * Sublime Text 3
 * Python 3.7
+
+### Credits
+https://gist.github.com/savarin/69acd246302567395f65ad6b97ee503d
+https://github.com/atiqahammed/B-plus-tree-dictionary-searching
